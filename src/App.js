@@ -2,6 +2,7 @@ import React,{Component} from 'react';
 import './App.css';
 import DrumPad from './drumpad';
 
+//added sound for different alphabets using respective links
 const data = [
   { id: 'Ghuurqol', letter: 'Q', src: 'https://www.myinstants.com/media/sounds/q_KWyYNtU.mp3' },
   { id: 'Uczek', letter: 'W', src: 'https://www.myinstants.com/media/sounds/w_4WPlOQ5.mp3' },
